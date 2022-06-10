@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Booking Your RATs</string>
+    <string name="mapbox_access_token"> pk.eyJ1IjoiY2NoZTIyNCIsImEiOiJjbDJyOTFxZ2EzMnZwM2tzYjd6NnN4dDVwIn0.-8y5GtYlv3w8ZWzLgNWpMg</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Not a Member? Register Now</string>
+    <string name="email_hint">\@gmail.com</string>
+    <string name="password_hint">Password</string>
+    <string name="confirm_password_hint">Confirm password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="welcome">Welcome to\nBooking your RAT</string>
+</resources>
